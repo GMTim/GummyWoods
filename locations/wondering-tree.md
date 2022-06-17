@@ -6,6 +6,7 @@
  - **[Healing Waters Through The Ever Changing Tunnels]**
 
 ## NPCs
+ - **[The Hermit](../npcs/the-hermit.md)**
 
 ## Description
 It is told that there is a wondering tree that has a entrance to the glittering waterfalls that is deep in a cave.

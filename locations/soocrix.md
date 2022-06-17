@@ -6,6 +6,7 @@
  - **[Be Wary Of Children's Faery Stories]**
 
 ## NPCs
+ - **[Brand Bouncekin III](../npcs/brand-bouncekin-iii.md)**
 
 ## Description
 Long ago, deep in the woods, the village of Soocrix thrived. It was not well known, at least, it was not well known to be real. Any self respecting Gum knew it was nothing but myths, stories told to little Gums to shush them at night. But, when you come to a clearing in the woods, beautiful and bright, colorful and glossy, its already too late. 
