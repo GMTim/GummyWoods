@@ -1,4 +1,4 @@
-# Lathi
+# Nameless Juice Horror
 
 ---
 
