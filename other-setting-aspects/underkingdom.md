@@ -3,7 +3,7 @@
 ---
 
 ## Monsters
-- **[Nameless Juice Horror](../monsters/nameless-juice-horror.md.md)**
+- **[Nameless Juice Horror](../monsters/nameless-juice-horror.md)**
 
 ---
 [Back](../)
