@@ -5,7 +5,7 @@
 - **[Bush Wolves](./bush-wolves.md)**
 - **[Hollow](./hollow.md)**
 - **[Lathi](./lathi.md)**
-- **[Nameless Juice Monster](./nameless-juice-monster.md)**
+- **[Nameless Juice Horror](./nameless-juice-horror.md)**
 
 ---
 [Back](../)
